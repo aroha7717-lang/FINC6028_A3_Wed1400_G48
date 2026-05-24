@@ -1,0 +1,462 @@
+Ticker,Security,GICS Sector,GICS Sub-Industry
+AAPL,Apple Inc. Common Stock,Technology,Technology
+META,Meta Platforms Inc. Class A Common Stock,Technology,Technology
+AMZN,Amazon.com Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+NFLX,Netflix Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+MSFT,Microsoft Corporation Common Stock,Technology,Technology
+GOOGL,Alphabet Inc. Class A Common Stock,Technology,Technology
+GE,GE Aerospace Common Stock,Technology,Technology
+GOOG,Alphabet Inc. Class C Capital Stock,Technology,Technology
+BAC,Bank of America Corporation Common Stock,Finance,Finance
+TSLA,Tesla Inc. Common Stock,Industrials,Industrials
+GILD,Gilead Sciences Inc. Common Stock,Health Care,Health Care
+DIS,Walt Disney Company (The) Common Stock,Consumer Discretionary,Consumer Discretionary
+BKNG,Booking Holdings Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+INTC,Intel Corporation Common Stock,Technology,Technology
+JPM,JP Morgan Chase & Co. Common Stock,Finance,Finance
+BIIB,Biogen Inc. Common Stock,Health Care,Health Care
+XOM,Exxon Mobil Corporation Common Stock,Energy,Energy
+C,Citigroup Inc. Common Stock,Finance,Finance
+WFC,Wells Fargo & Company Common Stock,Finance,Finance
+CMCSA,Comcast Corporation Class A Common Stock,Telecommunications,Telecommunications
+JNJ,Johnson & Johnson Common Stock,Health Care,Health Care
+PFE,Pfizer Inc. Common Stock,Health Care,Health Care
+QCOM,QUALCOMM Incorporated Common Stock,Technology,Technology
+V,Visa Inc.,Consumer Discretionary,Consumer Discretionary
+MU,Micron Technology Inc. Common Stock,Technology,Technology
+CVX,Chevron Corporation Common Stock,Energy,Energy
+CSCO,Cisco Systems Inc. Common Stock (DE),Telecommunications,Telecommunications
+WMT,Walmart Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+PG,Procter & Gamble Company (The) Common Stock,Consumer Discretionary,Consumer Discretionary
+ORCL,Oracle Corporation Common Stock,Technology,Technology
+SLB,SLB Limited Common Shares,Energy,Energy
+BRK-B,Berkshire Hathaway Inc.,Unavailable,Unavailable
+MCD,McDonald's Corporation Common Stock,Consumer Discretionary,Consumer Discretionary
+BA,Boeing Company (The) Common Stock,Industrials,Industrials
+HAL,Halliburton Company Common Stock,Energy,Energy
+HD,Home Depot Inc. (The) Common Stock,Consumer Discretionary,Consumer Discretionary
+MRK,Merck & Company Inc. Common Stock (new),Health Care,Health Care
+T,AT&T Inc.,Telecommunications,Telecommunications
+CMG,Chipotle Mexican Grill Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+DAL,Delta Air Lines Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+GS,Goldman Sachs Group Inc. (The) Common Stock,Finance,Finance
+IBM,International Business Machines Corporation Common Stock,Technology,Technology
+AXP,American Express Company Common Stock,Finance,Finance
+KO,Coca-Cola Company (The) Common Stock,Consumer Staples,Consumer Staples
+ABBV,AbbVie Inc. Common Stock,Health Care,Health Care
+UNH,UnitedHealth Group Incorporated Common Stock (DE),Health Care,Health Care
+UNP,Union Pacific Corporation Common Stock,Industrials,Industrials
+AMGN,Amgen Inc. Common Stock,Health Care,Health Care
+GM,General Motors Company Common Stock,Industrials,Industrials
+VZ,Verizon Communications Inc. Common Stock,Telecommunications,Telecommunications
+EBAY,eBay Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+REGN,Regeneron Pharmaceuticals Inc. Common Stock,Health Care,Health Care
+DD,DuPont de Nemours Inc. Common Stock,Industrials,Industrials
+AIG,American International Group Inc. New Common Stock,Finance,Finance
+MA,Mastercard Incorporated Common Stock,Consumer Discretionary,Consumer Discretionary
+CAT,Caterpillar Inc. Common Stock,Industrials,Industrials
+NKE,Nike Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+RTX,RTX Corporation Common Stock,Industrials,Industrials
+SBUX,Starbucks Corporation Common Stock,Consumer Discretionary,Consumer Discretionary
+MDT,Medtronic plc. Ordinary Shares,Health Care,Health Care
+UAL,United Airlines Holdings Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+CVS,CVS Health Corporation Common Stock,Consumer Staples,Consumer Staples
+VTRS,Viatris Inc. Common Stock,Health Care,Health Care
+FCX,Freeport-McMoRan Inc. Common Stock,Basic Materials,Basic Materials
+COP,ConocoPhillips Common Stock,Energy,Energy
+PEP,PepsiCo Inc. Common Stock,Consumer Staples,Consumer Staples
+LLY,Eli Lilly and Company Common Stock,Health Care,Health Care
+NXPI,NXP Semiconductors N.V. Common Stock,Technology,Technology
+AVGO,Broadcom Inc. Common Stock,Technology,Technology
+MDLZ,Mondelez International Inc. Class A Common Stock,Consumer Staples,Consumer Staples
+KMI,Kinder Morgan Inc. Common Stock,Utilities,Utilities
+AMAT,Applied Materials Inc. Common Stock,Technology,Technology
+BMY,Bristol-Myers Squibb Company Common Stock,Health Care,Health Care
+LOW,Lowe's Companies Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+CRM,Salesforce Inc. Common Stock,Technology,Technology
+SWKS,Skyworks Solutions Inc. Common Stock,Technology,Technology
+EOG,EOG Resources Inc. Common Stock,Energy,Energy
+HCA,HCA Healthcare Inc. Common Stock,Health Care,Health Care
+MS,Morgan Stanley Common Stock,Finance,Finance
+TGT,Target Corporation Common Stock,Consumer Discretionary,Consumer Discretionary
+LUV,Southwest Airlines Company Common Stock,Consumer Discretionary,Consumer Discretionary
+HPQ,HP Inc. Common Stock,Technology,Technology
+MMM,3M Company Common Stock,Health Care,Health Care
+VLO,Valero Energy Corporation Common Stock,Energy,Energy
+YUM,Yum! Brands Inc.,Consumer Discretionary,Consumer Discretionary
+COST,Costco Wholesale Corporation Common Stock,Consumer Discretionary,Consumer Discretionary
+OXY,Occidental Petroleum Corporation Common Stock,Energy,Energy
+MCK,McKesson Corporation Common Stock,Health Care,Health Care
+CHTR,Charter Communications Inc. Class A Common Stock New,Telecommunications,Telecommunications
+HUM,Humana Inc. Common Stock,Health Care,Health Care
+WYNN,Wynn Resorts Limited Common stock,Consumer Discretionary,Consumer Discretionary
+CI,The Cigna Group Common Stock,Health Care,Health Care
+TXN,Texas Instruments Incorporated Common Stock,Technology,Technology
+ELV,Elevance Health Inc. Common Stock,Health Care,Health Care
+HON,Honeywell International Inc. Common Stock,Industrials,Industrials
+FDX,FedEx Corporation Common Stock,Consumer Discretionary,Consumer Discretionary
+BAX,Baxter International Inc. Common Stock,Health Care,Health Care
+PANW,Palo Alto Networks Inc. Common Stock,Technology,Technology
+KR,Kroger Company (The) Common Stock,Consumer Staples,Consumer Staples
+CSX,CSX Corporation Common Stock,Industrials,Industrials
+MET,MetLife Inc. Common Stock,Finance,Finance
+F,Ford Motor Company Common Stock,Industrials,Industrials
+ADBE,Adobe Inc. Common Stock,Technology,Technology
+DG,Dollar General Corporation Common Stock,Consumer Discretionary,Consumer Discretionary
+SCHW,Charles Schwab Corporation (The) Common Stock,Finance,Finance
+DLTR,Dollar Tree Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+PSKY,Paramount Skydance Corporation Class B Common Stock,Industrials,Industrials
+WMB,Williams Companies Inc. (The) Common Stock,Utilities,Utilities
+PM,Philip Morris International Inc Common Stock,Health Care,Health Care
+TMO,Thermo Fisher Scientific Inc Common Stock,Industrials,Industrials
+DE,Deere & Company Common Stock,Industrials,Industrials
+ABT,Abbott Laboratories Common Stock,Health Care,Health Care
+UPS,United Parcel Service Inc. Common Stock,Industrials,Industrials
+EA,Electronic Arts Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+LVS,Las Vegas Sands Corp. Common Stock,Consumer Discretionary,Consumer Discretionary
+EXPE,Expedia Group Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+VRTX,Vertex Pharmaceuticals Incorporated Common Stock,Health Care,Health Care
+USB,U.S. Bancorp Common Stock,Finance,Finance
+ACN,Accenture plc Class A Ordinary Shares (Ireland),Consumer Discretionary,Consumer Discretionary
+LYB,LyondellBasell Industries NV Ordinary Shares Class A (Netherlands),Industrials,Industrials
+LMT,Lockheed Martin Corporation Common Stock,Industrials,Industrials
+MPC,Marathon Petroleum Corporation Common Stock,Energy,Energy
+EMR,Emerson Electric Company Common Stock,Technology,Technology
+PSX,Phillips 66 Common Stock,Energy,Energy
+CTSH,Cognizant Technology Solutions Corporation Class A Common Stock,Technology,Technology
+TJX,TJX Companies Inc. (The) Common Stock,Consumer Discretionary,Consumer Discretionary
+COF,Capital One Financial Corporation Common Stock,Finance,Finance
+SHW,Sherwin-Williams Company (The) Common Stock,Consumer Discretionary,Consumer Discretionary
+WDC,Western Digital Corporation Common Stock,Technology,Technology
+MGM,MGM Resorts International Common Stock,Consumer Discretionary,Consumer Discretionary
+AZO,AutoZone Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+URI,United Rentals Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+NVDA,NVIDIA Corporation Common Stock,Technology,Technology
+APA,APA Corporation Common Stock,Energy,Energy
+DHR,Danaher Corporation Common Stock,Industrials,Industrials
+HLT,Hilton Worldwide Holdings Inc. Common Stock ,Consumer Discretionary,Consumer Discretionary
+MO,Altria Group Inc.,Health Care,Health Care
+CMI,Cummins Inc. Common Stock,Industrials,Industrials
+NOC,Northrop Grumman Corporation Common Stock,Industrials,Industrials
+AMT,American Tower Corporation (REIT) Common Stock,Real Estate,Real Estate
+NEE,NextEra Energy Inc. Common Stock,Technology,Technology
+BSX,Boston Scientific Corporation Common Stock,Health Care,Health Care
+BLK,BlackRock Inc. Common Stock,Finance,Finance
+CB,Chubb Limited  Common Stock,Finance,Finance
+CCL,Carnival Corporation Ltd. Common Shares,Consumer Discretionary,Consumer Discretionary
+CL,Colgate-Palmolive Company Common Stock,Consumer Discretionary,Consumer Discretionary
+MNST,Monster Beverage Corporation,Consumer Staples,Consumer Staples
+NSC,Norfolk Southern Corporation Common Stock,Industrials,Industrials
+DUK,Duke Energy Corporation (Holding Company) Common Stock,Utilities,Utilities
+TRV,The Travelers Companies Inc. Common Stock,Finance,Finance
+EXC,Exelon Corporation Common Stock,Utilities,Utilities
+EQIX,Equinix Inc. Common Stock REIT,Real Estate,Real Estate
+APTV,Aptiv PLC Ordinary Shares,Consumer Discretionary,Consumer Discretionary
+GD,General Dynamics Corporation Common Stock,Industrials,Industrials
+PNC,PNC Financial Services Group Inc. (The) Common Stock,Finance,Finance
+LULU,lululemon athletica inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+RCL,Royal Caribbean Cruises Ltd. Common Stock,Consumer Discretionary,Consumer Discretionary
+INTU,Intuit Inc. Common Stock,Technology,Technology
+MAR,Marriott International Class A Common Stock,Consumer Discretionary,Consumer Discretionary
+ORLY,O'Reilly Automotive Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+COR,Cencora Inc. Common Stock,Health Care,Health Care
+GLW,Corning Incorporated Common Stock,Industrials,Industrials
+DVN,Devon Energy Corporation Common Stock,Energy,Energy
+EW,Edwards Lifesciences Corporation Common Stock,Health Care,Health Care
+SPG,Simon Property Group Inc. Common Stock,Real Estate,Real Estate
+TMUS,T-Mobile US Inc. Common Stock,Telecommunications,Telecommunications
+SO,Southern Company (The) Common Stock,Utilities,Utilities
+PCG,Pacific Gas & Electric Co. Common Stock,Utilities,Utilities
+ETN,Eaton Corporation PLC Ordinary Shares,Technology,Technology
+ISRG,Intuitive Surgical Inc. Common Stock,Health Care,Health Care
+LIN,Linde plc Ordinary Shares,Basic Materials,Basic Materials
+TSN,Tyson Foods Inc. Common Stock,Consumer Staples,Consumer Staples
+ZTS,Zoetis Inc. Class A Common Stock,Health Care,Health Care
+ADSK,Autodesk Inc. Common Stock,Technology,Technology
+PPG,PPG Industries Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+ICE,Intercontinental Exchange Inc. Common Stock,Finance,Finance
+LRCX,Lam Research Corporation Common Stock,Technology,Technology
+SYY,Sysco Corporation Common Stock,Consumer Discretionary,Consumer Discretionary
+INCY,Incyte Corp. Common Stock,Health Care,Health Care
+ALL,Allstate Corporation (The) Common Stock,Finance,Finance
+MOS,Mosaic Company (The) Common Stock,Industrials,Industrials
+LEN,Lennar Corporation Class A Common Stock,Consumer Discretionary,Consumer Discretionary
+CAH,Cardinal Health Inc. Common Stock,Health Care,Health Care
+STT,State Street Corporation Common Stock,Finance,Finance
+DHI,D.R. Horton Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+EL,Estee Lauder Companies Inc. (The) Common Stock,Consumer Discretionary,Consumer Discretionary
+BDX,Becton Dickinson and Company Common Stock,Health Care,Health Care
+PH,Parker-Hannifin Corporation Common Stock,Industrials,Industrials
+NEM,Newmont Corporation,Basic Materials,Basic Materials
+PRU,Prudential Financial Inc. Common Stock,Finance,Finance
+APD,Air Products and Chemicals Inc. Common Stock,Basic Materials,Basic Materials
+ECL,Ecolab Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+ADM,Archer-Daniels-Midland Company Common Stock,Consumer Staples,Consumer Staples
+ULTA,Ulta Beauty Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+LH,Labcorp Holdings Inc. Common Stock,Health Care,Health Care
+FFIV,F5 Inc. Common Stock,Telecommunications,Telecommunications
+GWW,W.W. Grainger Inc. Common Stock,Industrials,Industrials
+STX,Seagate Technology Holdings PLC Ordinary Shares (Ireland),Technology,Technology
+FSLR,First Solar Inc. Common Stock,Technology,Technology
+CF,CF Industries Holdings Inc. Common Stock,Industrials,Industrials
+ADP,Automatic Data Processing Inc. Common Stock,Industrials,Industrials
+ITW,Illinois Tool Works Inc. Common Stock,Industrials,Industrials
+CCI,Crown Castle Inc. Common Stock,Real Estate,Real Estate
+ROST,Ross Stores Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+ZBH,Zimmer Biomet Holdings Inc. Common Stock,Health Care,Health Care
+TAP,Molson Coors Beverage Company Class B Common Stock,Consumer Staples,Consumer Staples
+ADI,Analog Devices Inc. Common Stock,Technology,Technology
+STZ,Constellation Brands Inc. Common Stock,Consumer Staples,Consumer Staples
+KMB,Kimberly-Clark Corporation Common Stock,Consumer Discretionary,Consumer Discretionary
+AKAM,Akamai Technologies Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+WDAY,Workday Inc. Class A Common Stock,Technology,Technology
+GIS,General Mills Inc. Common Stock,Consumer Staples,Consumer Staples
+WBD,Warner Bros. Discovery Inc. Series A Common Stock ,Consumer Discretionary,Consumer Discretionary
+SPGI,S&P Global Inc. Common Stock,Finance,Finance
+BBY,Best Buy Co. Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+MLM,Martin Marietta Materials Inc. Common Stock,Industrials,Industrials
+BKR,Baker Hughes Company Class A Common Stock,Consumer Discretionary,Consumer Discretionary
+AMP,Ameriprise Financial Inc. Common Stock,Finance,Finance
+D,Dominion Energy Inc. Common Stock,Utilities,Utilities
+TT,Trane Technologies plc,Industrials,Industrials
+SYK,Stryker Corporation Common Stock,Health Care,Health Care
+RF,Regions Financial Corporation Common Stock,Finance,Finance
+WELL,Welltower Inc. Common Stock,Real Estate,Real Estate
+RL,Ralph Lauren Corporation Common Stock,Industrials,Industrials
+TPR,Tapestry Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+SYF,Synchrony Financial Common Stock,Finance,Finance
+HIG,The Hartford Insurance Group Inc. Common Stock,Finance,Finance
+VTR,Ventas Inc. Common Stock,Real Estate,Real Estate
+AEP,American Electric Power Company Inc. Common Stock,Utilities,Utilities
+FITB,Fifth Third Bancorp Common Stock,Finance,Finance
+TEL,TE Connectivity plc Ordinary Shares,Technology,Technology
+AON,Aon plc Class A Ordinary Shares (Ireland),Finance,Finance
+NOW,ServiceNow Inc. Common Stock,Technology,Technology
+SBAC,SBA Communications Corporation Class A Common Stock,Real Estate,Real Estate
+TFC,Truist Financial Corporation Common Stock,Finance,Finance
+EQT,EQT Corporation Common Stock,Energy,Energy
+CNC,Centene Corporation Common Stock,Health Care,Health Care
+AFL,AFLAC Incorporated Common Stock,Finance,Finance
+HST,Host Hotels & Resorts Inc. Common Stock,Real Estate,Real Estate
+PHM,PulteGroup Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+BX,Blackstone Inc. Common Stock,Finance,Finance
+KEY,KeyCorp Common Stock,Finance,Finance
+MAS,Masco Corporation Common Stock,Industrials,Industrials
+FISV,Fiserv Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+CPAY,Corpay Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+PPL,PPL Corporation Common Stock,Utilities,Utilities
+MRSH,Marsh Common Stock,Finance,Finance
+ROK,Rockwell Automation Inc. Common Stock,Industrials,Industrials
+MCO,Moody's Corporation Common Stock,Finance,Finance
+DOV,Dover Corporation Common Stock,Industrials,Industrials
+WM,Waste Management Inc. Common Stock,Utilities,Utilities
+ED,Consolidated Edison Inc. Common Stock,Utilities,Utilities
+A,Agilent Technologies Inc. Common Stock,Industrials,Industrials
+CME,CME Group Inc. Class A Common Stock,Finance,Finance
+NTAP,NetApp Inc. Common Stock,Technology,Technology
+VMC,Vulcan Materials Company (Holding Company) Common Stock,Industrials,Industrials
+MSI,Motorola Solutions Inc. Common Stock,Technology,Technology
+PLD,Prologis Inc. Common Stock,Real Estate,Real Estate
+SWK,Stanley Black & Decker Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+IP,International Paper Company Common Stock,Basic Materials,Basic Materials
+PSA,Public Storage Common Stock,Real Estate,Real Estate
+MCHP,Microchip Technology Incorporated Common Stock,Technology,Technology
+DVA,DaVita Inc. Common Stock,Health Care,Health Care
+AVB,AvalonBay Communities Inc. Common Stock,Real Estate,Real Estate
+UHS,Universal Health Services Inc. Common Stock,Health Care,Health Care
+PEG,Public Service Enterprise Group Incorporated Common Stock,Utilities,Utilities
+CHRW,C.H. Robinson Worldwide Inc. Common Stock,Industrials,Industrials
+EIX,Edison International Common Stock,Utilities,Utilities
+HSY,The Hershey Company Common Stock,Consumer Staples,Consumer Staples
+MTB,M&T Bank Corporation Common Stock,Finance,Finance
+CFG,Citizens Financial Group Inc. Common Stock,Finance,Finance
+VRSK,Verisk Analytics Inc. Common Stock,Industrials,Industrials
+CAG,ConAgra Brands Inc. Common Stock,Consumer Staples,Consumer Staples
+NRG,NRG Energy Inc. Common Stock,Utilities,Utilities
+SRE,DBA Sempra Common Stock,Utilities,Utilities
+KLAC,KLA Corporation Common Stock,Technology,Technology
+FAST,Fastenal Company Common Stock,Consumer Discretionary,Consumer Discretionary
+PCAR,PACCAR Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+XEL,Xcel Energy Inc. Common Stock,Utilities,Utilities
+FIS,Fidelity National Information Services Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+NUE,Nucor Corporation Common Stock,Industrials,Industrials
+NCLH,Norwegian Cruise Line Holdings Ltd. Ordinary Shares,Consumer Discretionary,Consumer Discretionary
+TXT,Textron Inc. Common Stock,Industrials,Industrials
+DGX,Quest Diagnostics Incorporated Common Stock,Health Care,Health Care
+WY,Weyerhaeuser Company Common Stock,Real Estate,Real Estate
+DOC,Healthpeak Properties Inc. Common Stock,Real Estate,Real Estate
+PGR,Progressive Corporation (The) Common Stock,Finance,Finance
+TROW,T. Rowe Price Group Inc. Common Stock,Finance,Finance
+EQR,Equity Residential Common Shares of Beneficial Interest,Real Estate,Real Estate
+COO,The Cooper Companies Inc. Common Stock,Health Care,Health Care
+DRI,Darden Restaurants Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+OMC,Omnicom Group Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+JCI,Johnson Controls International plc Ordinary Share,Industrials,Industrials
+BEN,Franklin Resources Inc. Common Stock,Finance,Finance
+PNR,Pentair plc. Ordinary Share,Industrials,Industrials
+PAYX,Paychex Inc. Common Stock,Industrials,Industrials
+CLX,Clorox Company (The) Common Stock,Consumer Discretionary,Consumer Discretionary
+SJM,The J.M. Smucker Company Common Stock,Consumer Staples,Consumer Staples
+FE,FirstEnergy Corp. Common Stock,Utilities,Utilities
+HSIC,Henry Schein Inc. Common Stock,Health Care,Health Care
+JBHT,J.B. Hunt Transport Services Inc. Common Stock,Industrials,Industrials
+GPN,Global Payments Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+VRSN,VeriSign Inc. Common Stock,Technology,Technology
+IVZ,Invesco Ltd Common Stock,Finance,Finance
+TSCO,Tractor Supply Company Common Stock,Consumer Discretionary,Consumer Discretionary
+PWR,Quanta Services Inc. Common Stock,Industrials,Industrials
+FTNT,Fortinet Inc. Common Stock,Technology,Technology
+BALL,Ball Corporation Common Stock,Industrials,Industrials
+ON,ON Semiconductor Corporation Common Stock,Technology,Technology
+CBRE,CBRE Group Inc Common Stock Class A,Finance,Finance
+CMS,CMS Energy Corporation Common Stock,Utilities,Utilities
+ROP,Roper Technologies Inc. Common Stock,Technology,Technology
+WEC,WEC Energy Group Inc. Common Stock,Utilities,Utilities
+ETR,Entergy Corporation Common Stock,Utilities,Utilities
+NTRS,Northern Trust Corporation Common Stock,Finance,Finance
+FANG,Diamondback Energy Inc. Common Stock,Energy,Energy
+BXP,BXP Inc. Common Stock,Real Estate,Real Estate
+CDNS,Cadence Design Systems Inc. Common Stock,Technology,Technology
+ALB,Albemarle Corporation Common Stock,Industrials,Industrials
+DXCM,DexCom Inc. Common Stock,Health Care,Health Care
+CIEN,Ciena Corporation Common Stock,Utilities,Utilities
+HAS,Hasbro Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+O,Realty Income Corporation Common Stock,Real Estate,Real Estate
+HBAN,Huntington Bancshares Incorporated Common Stock,Finance,Finance
+LHX,L3Harris Technologies Inc. Common Stock,Industrials,Industrials
+AME,AMETEK Inc.,Industrials,Industrials
+DTE,DTE Energy Company Common Stock,Utilities,Utilities
+BG,Bunge Limited Common Shares,Consumer Staples,Consumer Staples
+EXPD,Expeditors International of Washington Inc. Common Stock,Industrials,Industrials
+WAB,Westinghouse Air Brake Technologies Corporation Common Stock,Industrials,Industrials
+DECK,Deckers Outdoor Corporation Common Stock,Consumer Discretionary,Consumer Discretionary
+WAT,Waters Corporation Common Stock,Industrials,Industrials
+APH,Amphenol Corporation Common Stock,Technology,Technology
+NI,NiSource Inc Common Stock,Utilities,Utilities
+ESS,Essex Property Trust Inc. Common Stock,Real Estate,Real Estate
+CNP,CenterPoint Energy Inc (Holding Co) Common Stock,Utilities,Utilities
+EFX,Equifax Inc. Common Stock,Finance,Finance
+IDXX,IDEXX Laboratories Inc. Common Stock,Health Care,Health Care
+MTD,Mettler-Toledo International Inc. Common Stock,Industrials,Industrials
+AXON,Axon Enterprise Inc. Common Stock,Industrials,Industrials
+CPB,The Campbell's Company Common Stock,Consumer Staples,Consumer Staples
+DLR,Digital Realty Trust Inc. Common Stock,Real Estate,Real Estate
+ES,Eversource Energy (D/B/A) Common Stock,Utilities,Utilities
+WSM,Williams-Sonoma Inc. Common Stock (DE),Consumer Discretionary,Consumer Discretionary
+RSG,Republic Services Inc. Common Stock,Utilities,Utilities
+TDG,Transdigm Group Incorporated Common Stock,Industrials,Industrials
+IQV,IQVIA Holdings Inc. Common Stock,Health Care,Health Care
+PKG,Packaging Corporation of America Common Stock,Consumer Discretionary,Consumer Discretionary
+J,Jacobs Solutions Inc. Common Stock,Industrials,Industrials
+GPC,Genuine Parts Company Common Stock,Consumer Discretionary,Consumer Discretionary
+AEE,Ameren Corporation Common Stock,Utilities,Utilities
+STLD,Steel Dynamics Inc.,Industrials,Industrials
+ANET,Arista Networks Inc. Common Stock,Telecommunications,Telecommunications
+RMD,ResMed Inc. Common Stock,Health Care,Health Care
+L,Loews Corporation Common Stock,Finance,Finance
+TTWO,Take-Two Interactive Software Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+BF-B,Brown Forman Corporation,Unavailable,Unavailable
+DPZ,Domino's Pizza Inc Common Stock,Consumer Discretionary,Consumer Discretionary
+AES,The AES Corporation Common Stock,Utilities,Utilities
+CTAS,Cintas Corporation Common Stock,Industrials,Industrials
+OKE,ONEOK Inc. Common Stock,Utilities,Utilities
+ALGN,Align Technology Inc. Common Stock,Health Care,Health Care
+CHD,Church & Dwight Company Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+GRMN,Garmin Ltd. Common Stock (Switzerland),Industrials,Industrials
+ZBRA,Zebra Technologies Corporation Class A Common Stock,Industrials,Industrials
+KKR,KKR & Co. Inc. Common Stock,Finance,Finance
+NDAQ,Nasdaq Inc. Common Stock,Finance,Finance
+PFG,Principal Financial Group Inc Common Stock,Finance,Finance
+EXR,Extra Space Storage Inc Common Stock,Real Estate,Real Estate
+KIM,Kimco Realty Corporation (HC) Common Stock,Real Estate,Real Estate
+ODFL,Old Dominion Freight Line Inc. Common Stock,Industrials,Industrials
+JBL,Jabil Inc. Common Stock,Technology,Technology
+STE,STERIS plc (Ireland) Ordinary Shares,Health Care,Health Care
+HRL,Hormel Foods Corporation Common Stock,Consumer Staples,Consumer Staples
+MKC,McCormick & Company Incorporated Common Stock,Consumer Staples,Consumer Staples
+SNA,Snap-On Incorporated Common Stock,Consumer Discretionary,Consumer Discretionary
+FDS,FactSet Research Systems Inc. Common Stock,Technology,Technology
+NWSA,News Corporation Class A Common Stock,Consumer Discretionary,Consumer Discretionary
+LII,Lennox International Inc. Common Stock,Industrials,Industrials
+EG,Everest Group Ltd. Common Stock,Finance,Finance
+NVR,NVR Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+GEN,Gen Digital Inc. Common Stock,Technology,Technology
+UDR,UDR Inc. Common Stock,Real Estate,Real Estate
+IFF,International Flavors & Fragrances Inc. Common Stock,Industrials,Industrials
+TRMB,Trimble Inc. Common Stock,Industrials,Industrials
+MSCI,MSCI Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+AWK,American Water Works Company Inc. Common Stock,Utilities,Utilities
+AVY,Avery Dennison Corporation Common Stock,Consumer Discretionary,Consumer Discretionary
+TER,Teradyne Inc. Common Stock,Industrials,Industrials
+CDW,CDW Corporation Common Stock,Technology,Technology
+AOS,A.O. Smith Corporation Common Stock,Consumer Discretionary,Consumer Discretionary
+AJG,Arthur J. Gallagher & Co. Common Stock,Finance,Finance
+RVTY,Revvity Inc. Common Stock,Industrials,Industrials
+TRGP,Targa Resources Inc. Common Stock,Utilities,Utilities
+PNW,Pinnacle West Capital Corporation Common Stock,Utilities,Utilities
+GL,Globe Life Inc. Common Stock,Finance,Finance
+SNPS,Synopsys Inc. Common Stock,Technology,Technology
+WTW,Willis Towers Watson Public Limited Company Ordinary Shares,Finance,Finance
+ALLE,Allegion plc Ordinary Shares,Consumer Discretionary,Consumer Discretionary
+AIZ,Assurant Inc. Common Stock,Finance,Finance
+XYL,Xylem Inc. Common Stock New,Industrials,Industrials
+IT,Gartner Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+CBOE,Cboe Global Markets Inc. Common Stock,Finance,Finance
+FRT,Federal Realty Investment Trust Common Stock,Real Estate,Real Estate
+RJF,Raymond James Financial Inc. Common Stock,Finance,Finance
+CSGP,CoStar Group Inc. Common Stock,Finance,Finance
+CPT,Camden Property Trust Common Stock,Real Estate,Real Estate
+CRL,Charles River Laboratories International Inc. Common Stock,Health Care,Health Care
+AMD,Advanced Micro Devices Inc. Common Stock,Technology,Technology
+PTC,PTC Inc. Common Stock,Technology,Technology
+HII,Huntington Ingalls Industries Inc. Common Stock,Industrials,Industrials
+GNRC,Generac Holdlings Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+CASY,Casey's General Stores Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+BR,Broadridge Financial Solutions Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+IRM,Iron Mountain Incorporated (Delaware)Common Stock REIT,Real Estate,Real Estate
+ACGL,Arch Capital Group Ltd. Common Stock,Finance,Finance
+TYL,Tyler Technologies Inc. Common Stock,Technology,Technology
+VEEV,Veeva Systems Inc. Class A Common Stock,Technology,Technology
+EPAM,EPAM Systems Inc. Common Stock,Technology,Technology
+EVRG,Evergy Inc. Common Stock,Utilities,Utilities
+LNT,Alliant Energy Corporation Common Stock,Utilities,Utilities
+MAA,Mid-America Apartment Communities Inc. Common Stock,Real Estate,Real Estate
+HUBB,Hubbell Inc Common Stock,Technology,Technology
+IEX,IDEX Corporation Common Stock,Industrials,Industrials
+ATO,Atmos Energy Corporation Common Stock,Utilities,Utilities
+REG,Regency Centers Corporation Common Stock,Real Estate,Real Estate
+ARE,Alexandria Real Estate Equities Inc. Common Stock,Real Estate,Real Estate
+KEYS,Keysight Technologies Inc. Common Stock,Industrials,Industrials
+CINF,Cincinnati Financial Corporation Common Stock,Finance,Finance
+WRB,W.R. Berkley Corporation Common Stock,Finance,Finance
+LYV,Live Nation Entertainment Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+TDY,Teledyne Technologies Incorporated Common Stock,Industrials,Industrials
+JKHY,Jack Henry & Associates Inc. Common Stock,Technology,Technology
+PODD,Insulet Corporation Common Stock,Health Care,Health Care
+CPRT,Copart Inc. (DE) Common Stock,Consumer Discretionary,Consumer Discretionary
+IBKR,Interactive Brokers Group Inc. Class A Common Stock,Finance,Finance
+BRO,Brown & Brown Inc. Common Stock,Finance,Finance
+SMCI,Super Micro Computer Inc. Common Stock,Technology,Technology
+TECH,Bio-Techne Corp Common Stock,Health Care,Health Care
+WST,West Pharmaceutical Services Inc. Common Stock,Health Care,Health Care
+NDSN,Nordson Corporation Common Stock,Industrials,Industrials
+FICO,Fair Isaac Corporation Common Stock,Consumer Discretionary,Consumer Discretionary
+NWS,News Corporation Class B Common Stock,Consumer Discretionary,Consumer Discretionary
+POOL,Pool Corporation Common Stock,Consumer Discretionary,Consumer Discretionary
+MPWR,Monolithic Power Systems Inc. Common Stock,Technology,Technology
+BLDR,Builders FirstSource Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+EME,EMCOR Group Inc. Common Stock,Industrials,Industrials
+APO,Apollo Global Management Inc. (New) Common Stock,Finance,Finance
+KDP,Keurig Dr Pepper Inc. Common Stock,Consumer Staples,Consumer Staples
+LDOS,Leidos Holdings Inc. Common Stock,Technology,Technology
+TKO,TKO Group Holdings Inc. Class A Common Stock,Consumer Discretionary,Consumer Discretionary
+CRH,CRH PLC Ordinary Shares,Industrials,Industrials
+FIX,Comfort Systems USA Inc. Common Stock,Industrials,Industrials
+ROL,Rollins Inc. Common Stock,Consumer Discretionary,Consumer Discretionary
+SATS,EchoStar  Corporation Common Stock,Consumer Discretionary,Consumer Discretionary
+COHR,Coherent Corp. Common Stock,Technology,Technology
+ERIE,Erie Indemnity Company Class A Common Stock,Finance,Finance
+TPL,Texas Pacific Land Corporation Common Stock,Energy,Energy
+ARES,Ares Management Corporation Class A Common Stock,Finance,Finance
+SW,Smurfit WestRock plc Ordinary Shares,Consumer Discretionary,Consumer Discretionary
+AMCR,Amcor plc Ordinary Shares,Consumer Discretionary,Consumer Discretionary
